@@ -1,0 +1,41 @@
+$theme-colors: () !default;
+$spacer: 1rem !default;
+$spacers: () !default;
+$spacers: map-merge(
+  (
+    0: 0,
+    1: ($spacer * .25),
+    2: ($spacer * .5),
+    3: $spacer,
+    4: ($spacer * 1.5),
+    5: 5px,
+    10: 10px,
+    15: 15px,
+    20: 20px
+  ),
+  $spacers
+);
+// This variable affects the `.h-*` and `.w-*` classes.
+$sizes: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$sizes: map-merge(
+  (
+    100: 100px,
+    150: 150px,
+    200: 200px,
+    250: 250px,
+    300: 300px,
+    350: 350px,
+    400: 400px,
+    450: 450px,
+    500: 500px,
+    auto: auto,
+    full: 100%
+  ),
+  $sizes
+);
+
+.text-regular{font-size: 14px;}
+.text-small{font-size: 13px;}
+.text-smaller{font-size: 12px;}
+.list-unstyled {padding-left: 0; list-style: none;}

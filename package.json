@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-css-utils",
+  "version": "1.0.0",
+  "description": "bootstrap css utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjinlin/bootstrap-css-utils.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "utils"
+  ],
+  "author": "huangjinlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangjinlin/bootstrap-css-utils/issues"
+  },
+  "homepage": "https://github.com/huangjinlin/bootstrap-css-utils#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap4-utils-extended": "^0.1.1"
+  }
+}
