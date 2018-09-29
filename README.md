@@ -16,3 +16,9 @@ import 'bootstrap-css-utils/index.scss'
 ``` css
 @import "bootstrap-css-utils/index.scss";
 ```
+
+## tip
+publish
+``` bash
+npm publish
+```
