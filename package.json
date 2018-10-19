@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "bootstrap css utils",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,9 @@
   "homepage": "https://github.com/huangjinlin/bootstrap-css-utils#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
-    "bootstrap4-utils-extended": "^0.1.1",
+    "bootstrap4-utils-extended": "^0.1.1"
+  },
+  "devDependencies": {
     "node-sass": "^4.9.4"
   }
 }
