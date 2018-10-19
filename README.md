@@ -5,7 +5,10 @@
 ```
 npm install -S bootstrap-css-utils
 ```
-
+## build
+```
+npm run build
+```
 ## use
 ``` js
 require('bootstrap-css-utils/index.scss')

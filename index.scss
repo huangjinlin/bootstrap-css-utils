@@ -1,6 +1,7 @@
 @import "bootstrap/scss/mixins/_hover.scss";
-@import "./scss/mixins.scss";
 @import "./scss/variables.scss";
 @import "./scss/text.scss";
 @import "bootstrap4-utils-extended/b4ue.scss";
+@import "./scss/mixins.scss";
+// @include text-emphasis-variant(".test", #ffffff);
 @import "bootstrap/scss/_utilities.scss";
