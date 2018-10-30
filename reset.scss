@@ -1,0 +1,10 @@
+@import "weui-sass/src/style/base/reset.scss";
+/** env = windows **/
+::-webkit-input-placeholder {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/** prevent default menu callout **/
+a {
+  -webkit-touch-callout: none;
+}
