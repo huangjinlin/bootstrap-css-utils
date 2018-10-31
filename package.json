@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css-utils",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "bootstrap css utils",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
     "bootstrap",
     "css",
     "utils"
+  ],
+  "files" :[
+    "index.css",
+    "reset.css"
   ],
   "author": "huangjinlin",
   "license": "ISC",
